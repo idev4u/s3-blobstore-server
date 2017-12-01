@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/vapor/console.git",
         "state": {
           "branch": null,
-          "revision": "11c0694857d1be6c7b8b30d8db8b1162b73f2a2b",
-          "version": "2.2.0"
+          "revision": "df9eb9a6afd03851abcb3d8204d04c368729776e",
+          "version": "2.3.0"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/vapor/core.git",
         "state": {
           "branch": null,
-          "revision": "b8330808f4f6b69941961afe8ad6b015562f7b7c",
-          "version": "2.1.2"
+          "revision": "f9f3a585ab0ea5764b46d7a36d9c0d9d508b9c63",
+          "version": "2.2.0"
         }
       },
       {
@@ -96,8 +96,8 @@
         "repositoryURL": "https://github.com/vapor/multipart.git",
         "state": {
           "branch": null,
-          "revision": "f32d0952b8d4dfcef5ea194e85c1968d90f97bf0",
-          "version": "2.1.0"
+          "revision": "8e541b2e6fc64a3741eca2aa48ee2c3f23cbe17c",
+          "version": "2.1.1"
         }
       },
       {
@@ -132,8 +132,8 @@
         "repositoryURL": "https://github.com/drmohundro/SWXMLHash",
         "state": {
           "branch": null,
-          "revision": "49dee5d3c448685ca3f511792f5b679423d36475",
-          "version": "4.2.3"
+          "revision": "12496b370363034ccc919e1d72a99b9970b4941e",
+          "version": "4.2.5"
         }
       },
       {
@@ -141,8 +141,8 @@
         "repositoryURL": "https://github.com/vapor/sockets.git",
         "state": {
           "branch": null,
-          "revision": "f6b06982e94db71227e99c56fec5899a8526e8ad",
-          "version": "2.1.0"
+          "revision": "70d14c0e223257176f5ef69a595f7cad5de7a88b",
+          "version": "2.2.1"
         }
       },
       {
@@ -159,8 +159,8 @@
         "repositoryURL": "https://github.com/vapor/vapor.git",
         "state": {
           "branch": null,
-          "revision": "59bde985edbdf6480c541485317c8d41cc5fefb7",
-          "version": "2.2.2"
+          "revision": "63768e7f56e58dbfa4288e16ad2e4003bfd8dcde",
+          "version": "2.4.0"
         }
       }
     ]
