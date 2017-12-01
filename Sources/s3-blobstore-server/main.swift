@@ -15,7 +15,7 @@ let projectHome = ProcessInfo.processInfo.environment["PROJECT_HOME"]!
 print("Upload to: \(host)")
 print("Varibales are set")
 
-// FIX seperate make bytes
+// FIX separate make bytes
 let fm = FileManager()
 let textBlob = fm.contents(atPath: projectHome.appending("/testblob.txt"))
 print(textBlob?.makeString() as Any)
